@@ -1,0 +1,1 @@
+Change Note: Based on the AI pressure-test, I realized the 'About' page was a distraction in the conversion path. I have demoted it to the footer to maintain momentum. I also added a clear Call-to-Action (CTA) immediately after the Case Study to drive the user toward my GitHub at the moment of highest trust.
